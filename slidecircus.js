@@ -147,9 +147,10 @@ var SlideShow = {
 				len = links.length,
 				i;
 
-			var changeSlide = function(){
-				var e = window.event.srcElement;
-				var action = e.id;
+			var changeSlide = function(e){
+				e = e || window.event;
+				var o = e.srcElement || e.target;
+				var action = o.id;
 				SlideShow._utils.change(element, action);
 			}
 
