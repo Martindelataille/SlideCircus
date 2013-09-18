@@ -46,12 +46,12 @@ body {
 }
 
 
-#content > #img  {
+#content > .slide  {
 	left: 0px;
 	top: 0px;
 }
 
-#content > #img  {
+#content > .slide  {
 	position: absolute;
 	width: 100%;
 	height: 100%;
@@ -59,7 +59,7 @@ body {
 	top: 0px;
 }
 
-#content > #img > img {
+#content > .slide > img {
 	position: absolute;
 	left: 0px;
 	top: 0px;
@@ -75,7 +75,7 @@ body {
 	display: none;
 }
 
-#content > #img > span {
+#content > .slide > span {
 	width: 70%;
 	position: absolute;
 	left: 15%;
@@ -91,7 +91,7 @@ body {
 	filter:alpha(opacity=80);
 }
 
-#content #img span > h3 {
+#content .slide span > h3 {
 	font-size: 2em;
 	margin: 0;
 }
