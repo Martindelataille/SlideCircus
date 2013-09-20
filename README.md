@@ -1,9 +1,9 @@
 SliderCircus
 =============
 
-SliderCircus is aa slider without any javascript librairies (JQuery or Mootools).
+SliderCircus is a slider without any javascript librairies (JQuery or Mootools).
 
-Works with all browsers and support ie7/ie8.
+It work with all browsers and support ie7/ie8.
 
 Have Fun.
 
