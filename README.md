@@ -3,11 +3,9 @@ SliderCircus
 
 Pure Javascript Slider
 
-No jQuery
-No Mootools
+No jQuery && No Mootools
 
-Work with all browsers
-Support ie7/ie8.
+Work with all browsers && Support ie7/ie8
 
 Let me know if you want more features.
 
